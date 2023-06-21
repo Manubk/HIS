@@ -2,7 +2,8 @@
 # Project HIS
 (Health Insurance Service)
 
-The main aim of this project is to provide fully integrated health and insurance plans for New Jersey Citizens based on their life situations
+The main aim of this project is to provide fully integrated health and insurance plans for New Jersey Citizens based on their life situations  
+This is a Microservices Based Application
 
 
 
