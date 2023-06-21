@@ -9,10 +9,9 @@ This is a Microservices Based Application
 
 ## Documentation
 
-[Main Document](https://docs.google.com/document/d/1UyxnCnWh9RB7XYsuMyL89M5SLMnRtF1DaFoqdLbHSyM/edit?usp=sharing)
+[Main Document](https://github.com/Manubk/HIS/assets/106378286/adf68571-16a6-4874-821a-b0e9f5a0458f)
 
 
-## Modules
 
 - Admin
 - User Management
@@ -27,6 +26,10 @@ This is a Microservices Based Application
 - Reports
 - Mail Notification
 
+
+## Basic Architecture
+
+## ![Architecture](https://github.com/Manubk/HIS/assets/106378286/adf68571-16a6-4874-821a-b0e9f5a0458f)
 
 ## Projects API
 
