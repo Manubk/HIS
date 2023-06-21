@@ -44,7 +44,10 @@ projects Module API
 [BENEFIT ISSUANCE-API](https://github.com/Manubk/Benefit-Issuance_API_HIS.git)  Pending  
 [REPORTS](https://github.com/Manubk/Reports_API_HIS.git) Pending
 
+# DataBase ER-Diagram
+![ER-Diagram HIS](https://github.com/Manubk/HIS/assets/106378286/63b47c32-7dba-4eb7-b957-40686ce62b4b)
+
 
 ## 🛠 Skills
-Java, Spring Boot, SMTP,Eclipse, Docker,HTML, CSS, Git ,AWS
+Java, Spring Boot, SMTP,Eclipse, Docker,HTML, CSS, Git ,AWS,mysql
 
