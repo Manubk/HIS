@@ -29,22 +29,15 @@ The main aim of this project is to provide fully integrated health and insurance
 
 ## Projects API
 
-Here are some related projects
+projects Module API
 
-[ADMIN-API](https://github.com/Manubk/Admin_Api_HIS.git)
-[USER MANAGEMENT-API](https://github.com/Manubk/Admin_Api_HIS.git)
-[DATA COLLECTION-API](https://github.com/Manubk/Admin_Api_HIS.git)
-[ELIGEBILITY DETERMINATION-API](https://github.com/Manubk/Admin_Api_HIS.git)
-[CORROSPONDANCE](https://github.com/Manubk/Admin_Api_HIS.git)
-[BENEFIT ISSUANCE-API](https://github.com/Manubk/Admin_Api_HIS.git)
+[ADMIN-API](https://github.com/Manubk/Admin_Api_HIS.git)  
+[USER MANAGEMENT-API](https://github.com/Manubk/Admin_Api_HIS.git)  
+[DATA COLLECTION-API](https://github.com/Manubk/Admin_Api_HIS.git)  
+[ELIGIBILITY DETERMINATION-API](https://github.com/Manubk/Admin_Api_HIS.git)  
+[CORROSPONDANCE](https://github.com/Manubk/Admin_Api_HIS.git)  
+[BENEFIT ISSUANCE-API](https://github.com/Manubk/Admin_Api_HIS.git)  
 [REPORTS](https://github.com/Manubk/Admin_Api_HIS.git)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
 
 
 ## 🛠 Skills
