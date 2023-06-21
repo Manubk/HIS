@@ -17,8 +17,8 @@ The main aim of this project is to provide fully integrated health and insurance
 - User Management
 - Data Collection
 - Eligibility Determination
-- Corrospondance
-- Benifit Issuence
+- Correspondence
+- Benefit Issuance
 - Reports
 
 ## Features
@@ -32,6 +32,12 @@ The main aim of this project is to provide fully integrated health and insurance
 Here are some related projects
 
 [ADMIN-API](https://github.com/Manubk/Admin_Api_HIS.git)
+[USER MANAGEMENT-API](https://github.com/Manubk/Admin_Api_HIS.git)
+[DATA COLLECTION-API](https://github.com/Manubk/Admin_Api_HIS.git)
+[ELIGEBILITY DETERMINATION-API](https://github.com/Manubk/Admin_Api_HIS.git)
+[CORROSPONDANCE](https://github.com/Manubk/Admin_Api_HIS.git)
+[BENEFIT ISSUANCE-API](https://github.com/Manubk/Admin_Api_HIS.git)
+[REPORTS](https://github.com/Manubk/Admin_Api_HIS.git)
 
 
 ## Roadmap
@@ -42,5 +48,5 @@ Here are some related projects
 
 
 ## 🛠 Skills
-Java,Spring Boot,SMTP,Eclips,Docker,HTML, CSS,
+Java, Spring Boot, SMTP,Eclipse, Docker,HTML, CSS,
 
